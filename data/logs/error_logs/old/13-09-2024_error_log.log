@@ -1,5 +1,0 @@
-[Fri, 13 Sep 2024 09:15:44 +0700] [demo.nukeviet.my] [127.0.0.1] [Error(1): Uncaught Error: Call to undefined function pr() in E:\laragon\www\demo.nukeviet.my\modules\contact\admin\department.php:15
-Stack trace:
-#0 E:\laragon\www\demo.nukeviet.my\admin\index.php(182): require()
-#1 {main}
-  thrown] [FILE: /modules/contact/admin/department.php] [LINE: 15]
